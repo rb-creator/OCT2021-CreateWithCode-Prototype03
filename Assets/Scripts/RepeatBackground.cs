@@ -21,6 +21,6 @@ public class RepeatBackground : MonoBehaviour
         if (transform.position.x < startPos.x - repeatWidth)
         {
             transform.position = startPos;  
-        }
+        }   
     }
 }
